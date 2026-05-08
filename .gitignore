@@ -1,0 +1,11 @@
+# 排除临时文件
+*.jpg
+*.png
+*.pdf
+*.txt
+*.md
+avatar_b64.txt
+avatar_full_b64.txt
+
+# 排除旧版本
+飒飒-个人主页.html
